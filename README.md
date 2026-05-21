@@ -1,5 +1,3 @@
-# Vini-C0D.github.io
-Barbearia 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
